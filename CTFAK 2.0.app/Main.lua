@@ -19,7 +19,7 @@ local developers = window:addChild(GUI.layout(3, 20, window.width, window.height
 layout:addChild(GUI.text(1, 1, 0xd48a00, "---------------"))
 layout:addChild(GUI.text(1, 1, 0xd48a00, "CTFAK 2.0"))
 layout:addChild(GUI.text(1, 1, 0xd48a00, "---------------"))
-local label = developers:addChild(GUI.label(1, 1, 25, 1, 0xFFFFFF, "Developers: PlushPersik, CackeMC"))
+local label = developers:addChild(GUI.label(1, 1, 25, 1, 0xFFFFFF, "Developers: PlushPersik, CACKE"))
 
 local function open(path)
 	local filesystemDialog = GUI.addFilesystemDialog(workspace, true, 50, math.floor(window.height * 0.8), "Open", "Cancel", "Filename", "/")
