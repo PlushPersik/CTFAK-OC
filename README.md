@@ -5,7 +5,7 @@ Developers: PlushPersik, CackeMC.
 
 p.s Original CTFAK here: https://github.com/CTFAK
 # Installing
-## First method (not working now)
+## First method
 For start you need to download MineOS on your OpenComputers pc, guide here: https://github.com/IgorTimofeev/MineOS#how-to-install.
 
 Next, follow the installation of MineOS.
